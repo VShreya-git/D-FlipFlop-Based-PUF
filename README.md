@@ -8,26 +8,13 @@ A **Physically Unclonable Function (PUF)** uses small, inherent manufacturing va
 
 This project studies conventional and symmetric D Flip-Flop PUF architectures, evaluates their responses under process variation and operating-condition changes, and explores a modified circuit architecture. The goal is to understand the trade-offs among response uniqueness, reliability, uniformity, and bit aliasing.
 
-## Objectives
-
-- Study conventional and symmetric DFF-PUF architectures.
-- Implement and simulate transistor-level circuits in Cadence Virtuoso.
-- Examine transient behaviour and the PUF start-up response.
-- Evaluate process mismatch using Monte Carlo simulations.
-- Assess response sensitivity across process, voltage, and temperature (PVT) conditions.
-- Analyse exported simulation data using Python.
-- Develop a full-custom layout and perform physical verification and parasitic-aware analysis.
-- Compare the symmetric design with a modified DFF-PUF architecture.
-
-## Tools and Technologies
-
-<img width="405" height="331" alt="image" src="https://github.com/user-attachments/assets/bc362050-b5dd-4448-96d1-6890d5a3beaf" />
-
-
 ## Architecture
 
 <img width="566" height="389" alt="image" src="https://github.com/user-attachments/assets/cbcd5d6d-71ca-4ff2-968f-9b7f75cd48d5" />
 
+## Tools and Technologies
+
+<img width="405" height="331" alt="image" src="https://github.com/user-attachments/assets/bc362050-b5dd-4448-96d1-6890d5a3beaf" />
 
 ## PUF Performance Metrics
 
