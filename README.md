@@ -19,20 +19,6 @@ This project studies conventional and symmetric D Flip-Flop PUF architectures, e
 - Develop a full-custom layout and perform physical verification and parasitic-aware analysis.
 - Compare the symmetric design with a modified DFF-PUF architecture.
 
-## Design Approach
-
-The project follows this workflow:
-
-1. **Circuit study:** Review conventional and symmetric DFF-PUF architectures.
-2. **Schematic implementation:** Build the transistor-level circuits using the SCL 180 nm PDK.
-3. **Transient simulation:** Verify normal DFF operation and PUF-mode behaviour.
-4. **Variation analysis:** Run Monte Carlo simulations to model chip-to-chip process mismatch.
-5. **PVT analysis:** Evaluate response behaviour over process corners, supply-voltage changes, and temperature variations.
-6. **Data export:** Export simulated responses to CSV files.
-7. **Statistical evaluation:** Use Python to calculate PUF performance metrics.
-8. **Physical implementation:** Create a full-custom layout, run DRC/LVS checks, extract parasitics, and conduct post-layout simulations.
-9. **Architecture comparison:** Compare the symmetric DFF-PUF with the modified circuit.
-
 ## Tools and Technologies
 
 | Tool / Technology | Purpose |
@@ -60,7 +46,7 @@ The project report describes the following simulation setup:
 | Statistical analysis | Python |
 | Physical verification | Calibre DRC/LVS |
 
-The report also describes PVT sweeps using supply voltages from 1.1 V to 1.65 V and process corners including FF, FS, SF, and SS.
+PVT sweeps using supply voltages from 1.1 V to 1.65 V and process corners including FF, FS, SF, and SS.
 
 ## PUF Performance Metrics
 
@@ -71,27 +57,9 @@ The exported response data is evaluated using four key metrics:
 - **Uniformity:** Measures the proportion of 1s in a response. An ideal value is approximately 50%.
 - **Bit aliasing:** Measures how often a particular response-bit position is 1 across simulated chip instances. An ideal value is approximately 50%.
 
-Python scripts process the CSV data exported from Cadence and calculate these metrics for the selected response width and operating conditions.
+<img width="582" height="311" alt="Screenshot 2026-10-20 184529" src="https://github.com/user-attachments/assets/7a30abbf-1a69-4512-b5d2-d8978e34175d" />
 
-## Circuit Architectures Studied
 
-### 1. Conventional DFF-PUF
-Used as a baseline to understand how structural asymmetry in a conventional flip-flop can bias the start-up response.
 
-### 2. Symmetric DFF-PUF
-A symmetric architecture is studied in which balancing circuitry helps equalise the latch paths during PUF operation. The circuit supports normal DFF operation as well as PUF response generation.
-
-### 3. Modified DFF-PUF
-A modified circuit is explored and compared against the symmetric architecture. The comparison considers circuit structure, transistor count, and PUF performance metrics.
-
-## Physical Design and Verification
-
-The project extends beyond schematic simulation to full-custom layout:
-
-- Layout created in Cadence Virtuoso using the SCL 180 nm PDK.
-- Matched latch halves laid out with attention to device sizing, orientation, and routing symmetry.
-- Design Rule Check (DRC) and Layout Versus Schematic (LVS) performed using Calibre.
-- RC parasitic extraction used to prepare the design for post-layout simulation.
-- Post-layout Monte Carlo responses analysed using the Python evaluation workflow.
 
 
