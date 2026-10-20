@@ -1,8 +1,13 @@
-<img width="593" height="236" alt="Screenshot 2026-10-20 184939" src="https://github.com/user-attachments/assets/89dc2b34-41a6-440d-adc7-72243083ae66" />
-<img width="586" height="255" alt="Screenshot 2026-10-20 184950" src="https://github.com/user-attachments/assets/09f15221-0e73-43a2-a283-6db6b3cc2f1f" />
-<img width="566" height="267" alt="Screenshot 2026-10-20 185222" src="https://github.com/user-attachments/assets/cfb52aa1-0633-4101-a2a9-39cb453d3d08" />
-<img width="590" height="267" alt="Screenshot 2026-10-20 185232" src="https://github.com/user-attachments/assets/006825bd-ed48-4e5e-887c-9c73f30677bc" />
-<img width="585" height="263" alt="Screenshot 2026-10-20 185240" src="https://github.com/user-attachments/assets/66cf3550-e58e-4328-b45a-ea9770209a6b" />
-<img width="586" height="270" alt="Screenshot 2026-10-20 185252" src="https://github.com/user-attachments/assets/b5ff9164-d8b4-49dc-b345-6ede3890aa4d" />
-<img width="903" height="397" alt="image" src="https://github.com/user-attachments/assets/95f2854e-bb24-4abf-8458-36a59ac0dedb" />
+## 4.1.1 Circuit Schematic
+# Figure 4.1 shows the schematic of the symmetric DFF-PUF. The circuit works as a normal D flip-flop in normal mode. In PUF mode, the extra balancing transistors make both sides of the slave latch equal.
+
+<img width="903" height="358" alt="image" src="https://github.com/user-attachments/assets/f6ef4e28-e06d-426e-add3-2c1dfdb1dcb2" />
+<img width="903" height="384" alt="image" src="https://github.com/user-attachments/assets/6255d576-7b25-40ec-b41a-3514a5c15ed5" />
+<img width="903" height="403" alt="image" src="https://github.com/user-attachments/assets/ef87b1e0-83c9-4891-a4c4-13a2a464e1d6" />
+<img width="903" height="406" alt="image" src="https://github.com/user-attachments/assets/e7475fb0-7717-4e30-b577-0c71eaa55c0e" />
+<img width="903" height="397" alt="image" src="https://github.com/user-attachments/assets/b6cc4773-dae3-48ea-952d-c8a9e424668c" />
+<img width="903" height="403" alt="image" src="https://github.com/user-attachments/assets/20d0700b-1257-4bdd-945a-2d0611be1dcc" />
+
+
+
 
