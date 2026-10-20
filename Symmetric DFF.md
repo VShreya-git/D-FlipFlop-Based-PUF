@@ -32,11 +32,12 @@ Figure 4.5: Monte Carlo output of the symmetric DFF-PUF
 
 Figure 4.6: PVT simulation output of the symmetric DFF-PUF
 
-Metric	Ideal	Symmetric DFF-PUF
-Uniqueness (%)	50	50.26
-Reliability (%)	100	51.25
-Uniformity (%)	50	51.25
-Bit Aliasing (%)	50	51.04
+<img width="306" height="166" alt="image" src="https://github.com/user-attachments/assets/30e944ed-6289-478d-b589-9fbdad4a6ba5" />
 
+PUF metrics of the symmetric DFF-PUF for an 1-bit response
+
+<img width="305" height="166" alt="image" src="https://github.com/user-attachments/assets/58924467-7958-4e24-8c91-228bf69d4c6e" />
+
+PUF metrics of the symmetric DFF-PUF for an 8-bit response
 
 
