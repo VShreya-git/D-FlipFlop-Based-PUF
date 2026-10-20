@@ -21,15 +21,8 @@ This project studies conventional and symmetric D Flip-Flop PUF architectures, e
 
 ## Tools and Technologies
 
-| Tool / Technology | Purpose |
-|---|---|
-| Cadence Virtuoso | Transistor-level schematic design and circuit simulation |
-| SCL 180 nm PDK | CMOS device models and process design rules |
-| ADE XL | Monte Carlo and PVT simulation setup |
-| Python | Statistical analysis of PUF responses |
-| NumPy / pandas | Numerical and tabular data processing |
-| CSV | Export and transfer of simulation data |
-| Mentor Graphics Calibre | DRC, LVS, and parasitic extraction |
+<img width="405" height="331" alt="image" src="https://github.com/user-attachments/assets/bc362050-b5dd-4448-96d1-6890d5a3beaf" />
+
 
 ## Simulation Setup
 
