@@ -24,22 +24,10 @@ This project studies conventional and symmetric D Flip-Flop PUF architectures, e
 <img width="405" height="331" alt="image" src="https://github.com/user-attachments/assets/bc362050-b5dd-4448-96d1-6890d5a3beaf" />
 
 
-## Simulation Setup
+## Architecture
 
-The project report describes the following simulation setup:
+<img width="566" height="389" alt="image" src="https://github.com/user-attachments/assets/cbcd5d6d-71ca-4ff2-968f-9b7f75cd48d5" />
 
-| Parameter | Setup |
-|---|---|
-| Process technology | SCL 180 nm |
-| Nominal supply voltage | 1.8 V |
-| Temperature range | −40 °C to 125 °C |
-| Monte Carlo runs | 200 |
-| Pre-layout response widths | 1-bit and 8-bit |
-| Post-layout response width | 128-bit |
-| Statistical analysis | Python |
-| Physical verification | Calibre DRC/LVS |
-
-PVT sweeps using supply voltages from 1.1 V to 1.65 V and process corners including FF, FS, SF, and SS.
 
 ## PUF Performance Metrics
 
