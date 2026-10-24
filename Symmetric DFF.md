@@ -24,14 +24,6 @@ Figure 4.5: Monte Carlo output of the symmetric DFF-PUF
 
 Figure 4.6: PVT simulation output of the symmetric DFF-PUF
 
-<img width="306" height="166" alt="image" src="https://github.com/user-attachments/assets/30e944ed-6289-478d-b589-9fbdad4a6ba5" />
-
-PUF metrics of the symmetric DFF-PUF for an 8-bit response
-
-<img width="246" height="143" alt="image" src="https://github.com/user-attachments/assets/33008938-9e8b-4076-be60-1314b58f5da6" />
-
-
-
 PUF metrics of the symmetric DFF-PUF for an 8-bit response
 
 <img width="245" height="139" alt="image" src="https://github.com/user-attachments/assets/f3ff4d8e-fdd2-4324-8675-01cc42a535f4" />
