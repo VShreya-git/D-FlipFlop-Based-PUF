@@ -1,4 +1,4 @@
-# Symmetric DFF
+# Modified DFF
 
 <img width="902" height="330" alt="image" src="https://github.com/user-attachments/assets/84678445-bd8c-4c0b-a27d-8f39e7bf6e13" />
 
