@@ -14,29 +14,22 @@ The general waveform in Figure 4.2 shows the circuit working as a normal D flip-
 
 <img width="903" height="384" alt="image" src="https://github.com/user-attachments/assets/6255d576-7b25-40ec-b41a-3514a5c15ed5" />
 
-Figure 4.2: General transient waveform of the symmetric DFF-PUF [ 1 bit ]
-
-<img width="903" height="403" alt="image" src="https://github.com/user-attachments/assets/ef87b1e0-83c9-4891-a4c4-13a2a464e1d6" />
-
-Figure 4.3: Monte Carlo Analysis of the symmetric DFF-PUF [ 1 bit ]
-
-<img width="903" height="406" alt="image" src="https://github.com/user-attachments/assets/e7475fb0-7717-4e30-b577-0c71eaa55c0e" />
-
-Figure 4.4: Transient Analysis of the symmetric DFF-PUF [ 8-bits ]
+Figure 4.4: Transient Analysis of the symmetric DFF-PUF
 
 <img width="903" height="397" alt="image" src="https://github.com/user-attachments/assets/b6cc4773-dae3-48ea-952d-c8a9e424668c" />
 
-Figure 4.5: Monte Carlo output of the symmetric DFF-PUF [ 8-bits ]
+Figure 4.5: Monte Carlo output of the symmetric DFF-PUF 
 
 <img width="903" height="403" alt="image" src="https://github.com/user-attachments/assets/20d0700b-1257-4bdd-945a-2d0611be1dcc" />
 
-Figure 4.6: PVT simulation output of the symmetric DFF-PUF [ 8-bits ]
+Figure 4.6: PVT simulation output of the symmetric DFF-PUF
 
 <img width="306" height="166" alt="image" src="https://github.com/user-attachments/assets/30e944ed-6289-478d-b589-9fbdad4a6ba5" />
 
-PUF metrics of the symmetric DFF-PUF for an 1-bit response
+PUF metrics of the symmetric DFF-PUF for an 8-bit response
 
-<img width="251" height="135" alt="image" src="https://github.com/user-attachments/assets/65d511d1-ec5a-4cde-a8cc-9e35ba0e84d3" />
+<img width="246" height="143" alt="image" src="https://github.com/user-attachments/assets/33008938-9e8b-4076-be60-1314b58f5da6" />
+
 
 
 PUF metrics of the symmetric DFF-PUF for an 8-bit response
