@@ -1,4 +1,4 @@
-# Symmetric DFF
+# Base DFF
 
 <img width="903" height="358" alt="image" src="https://github.com/user-attachments/assets/f6ef4e28-e06d-426e-add3-2c1dfdb1dcb2" />
 
@@ -22,7 +22,5 @@ Figure 4: PVT simulation output of the symmetric DFF-PUF
 
 Figure 5: Layout of the symmetric DFF-PUF
 
-PUF metrics of the symmetric DFF-PUF for an 8-bit response
 
-<img width="245" height="139" alt="image" src="https://github.com/user-attachments/assets/f3ff4d8e-fdd2-4324-8675-01cc42a535f4" />
 
