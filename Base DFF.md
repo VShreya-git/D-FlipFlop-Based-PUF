@@ -25,7 +25,7 @@ Figure 4: PVT simulation output of the symmetric DFF-PUF
 <img width="903" height="216" alt="image" src="https://github.com/user-attachments/assets/214ae9b8-05a5-4477-91c5-2faf22e72423" />
 
 
-## Figure 5: Layout of the symmetric DFF-PUF
+Figure 5: Layout of the symmetric DFF-PUF
 
 
 
